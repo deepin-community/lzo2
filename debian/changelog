@@ -1,9 +1,3 @@
-lzo2 (2.10.1-1+dde2) unstable; urgency=medium
-
-  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
-
- -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 17:07:37 +0800
-
 lzo2 (2.10.1-1+dde1) unstable; urgency=medium
 
   * feta: add sw64 support
